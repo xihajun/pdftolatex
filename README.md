@@ -19,6 +19,7 @@ To use pdftolatex run `convert_pdf.py` with either the `--filepath` argument to 
 - pytesseract 
 - pillow
 - tqdm
+- pdf2image
 
 ### Future Improvements
 PDF2Latex is a naive traditional computer vision based program which may not always create the best results. Currently working on updated deep learning based "PDF decompilation" tool in my free time(hopefully will be ready by Summer 2021). 
